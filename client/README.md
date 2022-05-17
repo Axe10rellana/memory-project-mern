@@ -14,7 +14,3 @@ Iniciar el build: "npm run build": "react-scripts build"
 ## Dependencias
 
 axios, jwt-decode, material-ui-chip-input, moment, react-file-base64, react-google-login, react-redux, react-router-dom, redux, redux-thunk, @material-ui/core, @material-ui/icons @material-ui/lab
-
-## Dependencias De Desarrollo
-
-## Informacion Adicional

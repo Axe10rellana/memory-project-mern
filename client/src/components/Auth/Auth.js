@@ -58,9 +58,6 @@ const Auth = () => {
   //variables del hook de react-router
   const navigate = useNavigate();
 
-  //variables
-  //const GOOGLE_ID = process.env.REACT_APP_GOOGLE_ID;
-
   //variables del hook useStyles
   const classes = useStyles();
 
