@@ -16,5 +16,3 @@ body-parser, cors, express.js, mongoose, dotenv, bcryptjs, jsonwebtoken
 ## Dependencias De Desarrollo
 
 nodemon
-
-## Informacion Adicional
