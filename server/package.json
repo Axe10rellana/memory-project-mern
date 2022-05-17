@@ -1,0 +1,41 @@
+{
+  "name": "mern-stack-api",
+  "version": "0.0.1",
+  "description": "Mern Stack Social Media App",
+  "main": "index.js",
+  "homepage": "./",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server --ignore client",
+    "start": "node server"
+  },
+  "keywords": [
+    "Mern",
+    "Social Media",
+    "MongoDB",
+    "Mongoose",
+    "Express.js",
+    "Node.js",
+    "Nodemon",
+    "Body Parser",
+    "Cors",
+    "dotenv",
+    "bcryptjs",
+    "jsonwebtoken",
+    "jwt"
+  ],
+  "author": "Axe10rellana",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "body-parser": "1.20.0",
+    "cors": "2.8.5",
+    "dotenv": "16.0.0",
+    "express": "4.18.0",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "6.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
